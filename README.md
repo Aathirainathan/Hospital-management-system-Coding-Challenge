@@ -87,12 +87,12 @@ VALUES
    ![Screenshot 2024-10-08 115625](https://github.com/user-attachments/assets/92769d14-94fa-4a29-ae9a-ae33e4b303ad)
 
 <h4>5. Cancel Appointment:</h4>
-   
-    ![image](https://github.com/user-attachments/assets/1b72cab4-261d-4a79-8485-c627dd63e03c)
+
+   ![image](https://github.com/user-attachments/assets/1b72cab4-261d-4a79-8485-c627dd63e03c)
    
    <h4>Deleted From database</h4>
    
-    ![image](https://github.com/user-attachments/assets/3d43c582-3fcc-4195-afa0-1c07f41c4810)
+   ![image](https://github.com/user-attachments/assets/3d43c582-3fcc-4195-afa0-1c07f41c4810)
    
 <h4>7. Get Appointment by ID:</h4>
 
@@ -108,7 +108,7 @@ VALUES
 
 <h4>10. Patient Number Not Found Exception:</h4>
 
-    ![image](https://github.com/user-attachments/assets/c99b3bc1-85c7-42d2-aa19-b1f3c3c14664)
+   ![image](https://github.com/user-attachments/assets/c99b3bc1-85c7-42d2-aa19-b1f3c3c14664)
 
 
     
