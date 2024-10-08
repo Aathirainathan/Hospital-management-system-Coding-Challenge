@@ -79,8 +79,38 @@ Code Working Screenshots:
    ![image](https://github.com/user-attachments/assets/ae1e552f-46d7-4900-aeda-d03faa08c487)
    ![image](https://github.com/user-attachments/assets/8c4ee3fb-8f56-47d8-8088-41354b6ad70d)
 
-4. Update Appoinment:(Change Appointment Date):
+4. Update Appointment:(Change Appointment Date):
    
+   ![Screenshot 2024-10-08 115539](https://github.com/user-attachments/assets/1d91cb70-4760-41c0-81c2-88d74bb6b47d)
+   ![Screenshot 2024-10-08 115625](https://github.com/user-attachments/assets/92769d14-94fa-4a29-ae9a-ae33e4b303ad)
+
+5. Cancel Appointment:
+   
+    ![image](https://github.com/user-attachments/assets/1b72cab4-261d-4a79-8485-c627dd63e03c)
+   
+   Deleted From database
+   
+    ![image](https://github.com/user-attachments/assets/3d43c582-3fcc-4195-afa0-1c07f41c4810)
+   
+7. Get Appointment by ID:
+
+   ![image](https://github.com/user-attachments/assets/aadb0dac-a7f6-4951-b9e3-18d6859b385b)
+
+8. Get Appointments for Patient:
+   
+   ![image](https://github.com/user-attachments/assets/20eda319-c69e-460b-8fc9-fa5e462b19c6)
+
+9. Get Appointments for Doctor:
+
+   ![image](https://github.com/user-attachments/assets/bc945c9a-b20b-4dff-b8b7-ef0d9d24bb7a)
+
+10. Patient Number Not Found Exception:\
+
+    ![image](https://github.com/user-attachments/assets/c99b3bc1-85c7-42d2-aa19-b1f3c3c14664)
+
+
+    
+
 
 
 
