@@ -1,9 +1,9 @@
 # Hospital-management-system-Coding-Challenge
 
 
-<b>Sql Schema</b>
+<h2>Sql Schema</h2>h2>
 
--- Table 1 Patients 
+<h4>-- Table 1 Patients</h4>
 
 CREATE TABLE Patients (
     PatientId INT IDENTITY(1,1) PRIMARY KEY,
@@ -15,7 +15,7 @@ CREATE TABLE Patients (
     Address NVARCHAR(255) NOT NULL
 );
 
--- Table 2 Doctors
+<h4>-- Table 2 Doctors</h4>
 
 CREATE TABLE Doctors (
     DoctorId INT IDENTITY(1,1) PRIMARY KEY,
@@ -25,7 +25,7 @@ CREATE TABLE Doctors (
     ContactNumber NVARCHAR(15) NOT NULL
 );
 
--- Table 3 Appointments
+<h4>-- Table 3 Appointments</h4>
 CREATE TABLE Appointments (
     AppointmentId INT IDENTITY(1,1) PRIMARY KEY,
     PatientId INT NOT NULL FOREIGN KEY REFERENCES Patients(PatientId),
@@ -35,7 +35,7 @@ CREATE TABLE Appointments (
 );
 
 
--- Insert Records
+<h4>-- Insert Records</h4>
 
 INSERT INTO Patients (FirstName, LastName, DateOfBirth, Gender, ContactNumber, Address)
 VALUES 
@@ -65,13 +65,13 @@ VALUES
 ('Priya', 'Chopra', 'Psychiatry', '1098765432');
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Output Screenshots:
-1. Add Patient to the database:
+<h2>Output Screenshots:</h2>
+<h3>>1. Add Patient to the database:</h3
    
    ![image](https://github.com/user-attachments/assets/398beee0-ee1d-4f15-9f54-5bb63ae6b289)
    ![image](https://github.com/user-attachments/assets/69974064-2c8a-4a1f-88ca-da4c4ca41516)
 
-2. Add Doctor to the database:
+2.<h3> Add Doctor to the database:</h3>
    
    ![image](https://github.com/user-attachments/assets/249f8fec-e28d-4f3f-b327-dd03373e2053)
    ![image](https://github.com/user-attachments/assets/98b53687-4527-4a65-bf57-6f9276bf1397)
