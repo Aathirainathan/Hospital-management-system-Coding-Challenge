@@ -63,7 +63,7 @@ VALUES
 ('Priya', 'Chopra', 'Psychiatry', '1098765432');
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Code Working Screenshots:
+Output Screenshots:
 1. Add Patient to the database:
    
    ![image](https://github.com/user-attachments/assets/398beee0-ee1d-4f15-9f54-5bb63ae6b289)
@@ -104,7 +104,7 @@ Code Working Screenshots:
 
    ![image](https://github.com/user-attachments/assets/bc945c9a-b20b-4dff-b8b7-ef0d9d24bb7a)
 
-10. Patient Number Not Found Exception:\
+10. Patient Number Not Found Exception:
 
     ![image](https://github.com/user-attachments/assets/c99b3bc1-85c7-42d2-aa19-b1f3c3c14664)
 
