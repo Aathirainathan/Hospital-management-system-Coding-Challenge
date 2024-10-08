@@ -1,7 +1,7 @@
 # Hospital-management-system-Coding-Challenge
 
 
-Sql Schema 
+<b>Sql Schema</b>
 
 -- Table 1 Patients 
 
