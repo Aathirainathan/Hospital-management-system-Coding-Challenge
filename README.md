@@ -3,7 +3,8 @@
 
 Sql Schema 
 
--- Table 1 Patients
+-- Table 1 Patients 
+
 CREATE TABLE Patients (
     PatientId INT IDENTITY(1,1) PRIMARY KEY,
     FirstName NVARCHAR(100) NOT NULL,
@@ -15,6 +16,7 @@ CREATE TABLE Patients (
 );
 
 -- Table 2 Doctors
+
 CREATE TABLE Doctors (
     DoctorId INT IDENTITY(1,1) PRIMARY KEY,
     FirstName NVARCHAR(100) NOT NULL,
