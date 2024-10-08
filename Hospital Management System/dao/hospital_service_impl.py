@@ -26,6 +26,12 @@ class HospitalServiceImpl(IHospitalService):
                    WHERE p.FirstName = ?"""
         cursor.execute(query, (patient_id,))
         rows = cursor.fetchall()
+
+
+        if not rows:
+            raise PatientNumberNotFoundException()
+
+
         return [Appointment(*row) for row in rows]
 
     def get_appointments_for_doctor(self, doctor_id: str) -> List[Appointment]:
