@@ -65,14 +65,17 @@ VALUES
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Code Working Screenshots:
 1. Add Patient to the database:
+   
    ![image](https://github.com/user-attachments/assets/398beee0-ee1d-4f15-9f54-5bb63ae6b289)
    ![image](https://github.com/user-attachments/assets/69974064-2c8a-4a1f-88ca-da4c4ca41516)
 
 2. Add Doctor to the database:
+   
    ![image](https://github.com/user-attachments/assets/249f8fec-e28d-4f3f-b327-dd03373e2053)
    ![image](https://github.com/user-attachments/assets/98b53687-4527-4a65-bf57-6f9276bf1397)
 
 3. Schedule Appointment:
+   
    ![image](https://github.com/user-attachments/assets/ae1e552f-46d7-4900-aeda-d03faa08c487)
    ![image](https://github.com/user-attachments/assets/8c4ee3fb-8f56-47d8-8088-41354b6ad70d)
 
