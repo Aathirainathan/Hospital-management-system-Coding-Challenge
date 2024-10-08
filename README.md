@@ -94,19 +94,19 @@ VALUES
    
    ![image](https://github.com/user-attachments/assets/3d43c582-3fcc-4195-afa0-1c07f41c4810)
    
-<h4>7. Get Appointment by ID:</h4>
+<h4>6. Get Appointment by ID:</h4>
 
    ![image](https://github.com/user-attachments/assets/aadb0dac-a7f6-4951-b9e3-18d6859b385b)
 
-<h4>8. Get Appointments for Patient:</h4>
+<h4>7. Get Appointments for Patient:</h4>
    
    ![image](https://github.com/user-attachments/assets/20eda319-c69e-460b-8fc9-fa5e462b19c6)
 
-<h4>9. Get Appointments for Doctor:</h4>
+<h4>8. Get Appointments for Doctor:</h4>
 
    ![image](https://github.com/user-attachments/assets/bc945c9a-b20b-4dff-b8b7-ef0d9d24bb7a)
 
-<h4>10. Patient Number Not Found Exception:</h4>
+<h4>9. Patient Number Not Found Exception:</h4>
 
    ![image](https://github.com/user-attachments/assets/c99b3bc1-85c7-42d2-aa19-b1f3c3c14664)
 
